@@ -1,6 +1,6 @@
 # findr - username search script
 
-This is a super simple Bash script tool that checks whether a specific username exists on various websites. Inspired by the much more comprehensive tool ![sherlock](https://github.com/sherlock-project/sherlock) this is one of a series of scripts I have made to learn Bash Scripting.
+This is a super simple Bash script tool that checks whether a specific username exists on various websites. Inspired by the much more comprehensive tool [sherlock](https://github.com/sherlock-project/sherlock) this is one of a series of scripts I have made to learn Bash Scripting.
 
 
 ## Dependencies
